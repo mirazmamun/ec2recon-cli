@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "cSpell.ignoreWords": [
+        "elbs",
+        "elbv",
+        "filter",
+        "filter elbs"
+    ]
+}
