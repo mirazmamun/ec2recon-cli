@@ -3,3 +3,5 @@ venv
 # pycache
 *.egg-info
 __pycache__
+# IDE specific
+.vscode
